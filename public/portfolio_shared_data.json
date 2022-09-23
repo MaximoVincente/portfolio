@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Maximo Vincente Mejia",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer Transitioning Out Of The Military, To Continue To Positively Impact The World!" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/MaximoVincente",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/maximo-vincente-mejia-53863a224/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

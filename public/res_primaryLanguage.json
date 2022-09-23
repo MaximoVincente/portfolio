@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Maximo Vincente Mejia. I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Maximo Vincente Mejia. Software Developer transitioning out of the US Army active duty, with experience in HTML, CSS, JavaScript, Git, GitHub, React, and Bootstrap.I am currently a mentor, coach and trainer for the Field Artillery National Guard in the Northeast region for rockets and missile systems. I have 7 years of experience mentoring units on decision making process, organizational management, and occupational specialties, to guarantee mission success, and the organization's intent is met. make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -42,7 +42,7 @@
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/MaximoVincente",
         "technologies": [
           {
             "class": "devicon-react-original",
