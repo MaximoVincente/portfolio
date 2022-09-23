@@ -21,16 +21,16 @@
         "url": "https://github.com/dustinapodaca/HanGit",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
@@ -45,12 +45,16 @@
         "url": "https://github.com/MaximoVincente/cookie-stand",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       },
@@ -65,53 +69,47 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-java-plain",
+            "name": "Java"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-android-plain",
+            "name": "Android"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-intellij-plain",
+            "name": "intellij"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student - Full Stack Developer",
+        "years": "08.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java/JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Java",
+          "Android Studio",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Mongo DB",
+          "Nodejs"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "University of Maryland Global Campus",
+        "title": "Student",
+        "years": "08.2018 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Java"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Java",
+          "C"
         ]
       }
     ]
